@@ -1,4 +1,4 @@
-// CMBC的发件地址
+// CMBC发件地址
 const email = '95555@message.cmbchina.com'; 
 
 // 飞书机器人 ID 和 Secret
